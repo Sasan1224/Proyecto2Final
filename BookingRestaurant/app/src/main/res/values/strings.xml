@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BookingRestaurant</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido!"</string>
+    <string name="invalid_username">Usuario invalido</string>
+    <string name="invalid_password">La contraseña debe tener mas de 5 caracteres</string>
+    <string name="login_failed">""</string>
+    <string name="title_activity_home">Inicio</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">"Restaurantes</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="fist_restaurant">Las delicias</string>
+    <string name="fist_restaurant_class">Almuerzos</string>
+    <string name="fist_restaurant_value">Excelente</string>
+
+    <string name="second_restaurant">La Locura</string>
+    <string name="second_restaurant_class">Hojaldres</string>
+    <string name="second_restaurant_value">Excelente</string>
+
+    <string name="third_restaurant">Creepes n Waffles</string>
+    <string name="third_restaurant_class">Postres</string>
+    <string name="third_restaurant_value">Bueno</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
